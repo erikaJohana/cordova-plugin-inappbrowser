@@ -552,7 +552,7 @@ public class InAppBrowser extends CordovaPlugin {
                 //Please, no more black!
                 //toolbar.setBackgroundColor(android.graphics.Color.LTGRAY);
                 
-                toolbar.setBackgroundColor(android.graphics.Color.parseColor("#712002"));
+                toolbar.setBackgroundColor(android.graphics.Color.parseColor("#78366b"));
                 
                 toolbar.setLayoutParams(new RelativeLayout.LayoutParams(LayoutParams.MATCH_PARENT, this.dpToPixels(44)));
                 toolbar.setPadding(this.dpToPixels(2), this.dpToPixels(2), this.dpToPixels(2), this.dpToPixels(2));

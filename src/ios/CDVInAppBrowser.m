@@ -567,7 +567,7 @@
     self.addressLabel.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleRightMargin | UIViewAutoresizingFlexibleTopMargin;
     
     //self.addressLabel.backgroundColor = [UIColor clearColor];
-    self.addressLabel.backgroundColor = [UIColor colorWithRed:0.4706 green:0.2118 blue:0.4196 alpha:1.0];
+    self.addressLabel.backgroundColor = [UIColor colorWithRed:0.1765 green:0.6314 blue:0.8588 alpha:1.0];
     
     self.addressLabel.baselineAdjustment = UIBaselineAdjustmentAlignCenters;
     self.addressLabel.clearsContextBeforeDrawing = YES;
